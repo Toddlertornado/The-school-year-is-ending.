@@ -1,4 +1,25 @@
-# The-school-year-is-ending.
-THANK YOU TEACHERS!!!!<br>
-BELLO
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage</title>
+    </head>
+    <body>
+    <style>
+        #HES_heading{
+            color:white;
+            background-color:brown;
+        }
+        .an_apple_a_day{
+            font:"Comfortaa",;
+        }
+    </style>
+    
+    <h1 id="HES_heading" class="an_apple_a_day">
+        HAPPY END OF THE SCHOOL YEAR!!!
+    </h1>
+
+
+    </body>
+</html>
 
